@@ -1,5 +1,5 @@
 
-TARGET=q1
+TARGET=day2q2
 
 CSRCS= $(TARGET).c
 CSRCS+= 
