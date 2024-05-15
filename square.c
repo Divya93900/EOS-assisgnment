@@ -1,7 +1,7 @@
-//#include<studio.h>
+#include"square.h"
 int square(int s)
 {
- s=8;
+// s=8;
  int b=s*s;
 printf("area of sqr:%d",b);
 }

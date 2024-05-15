@@ -1,2 +1,2 @@
 #include<stdio.h>
-int square(int s)
+int square(int s);

@@ -4,6 +4,8 @@
 #include"rect.h"
 int main()
 {
-int s=area();
-printf("area:%d",s);
+area(10);
+rect(10,20);
+square(10);
+return 0;
 }

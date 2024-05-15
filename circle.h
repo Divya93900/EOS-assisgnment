@@ -1,3 +1,3 @@
 
 #include<stdio.h>
-int area(int r)
+int area(int r);
